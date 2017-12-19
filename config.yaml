@@ -1,0 +1,13 @@
+token: ''
+
+bot:
+  commands_require_mention: false
+  commands_prefix: '.'
+  commands_allow_edit: false
+  http_enabled: true
+  http_host: '127.0.0.1'
+  http_port: 10240
+
+disabled_plugins:
+  - plugins.ayy
+  - plugins.lmao

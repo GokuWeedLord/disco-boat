@@ -1,0 +1,5 @@
+disco-py
+disco-py[performance]
+disco-py[http]
+disco-py[music]
+psutil
